@@ -1,0 +1,24 @@
+{
+  "name": "ts-youtube-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikbajaj/ts-youtube-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikbajaj/ts-youtube-crash-course/issues"
+  },
+  "homepage": "https://github.com/manikbajaj/ts-youtube-crash-course#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "typescript": "^5.1.6"
+  }
+}
