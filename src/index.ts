@@ -1,4 +1,10 @@
-let person: [string, string, number];
-person = ["John", "Doe", 22];
-
-person = ["John", "Doe", 22, 22];
+let post: {
+  author: string;
+  content: string;
+  title: string;
+  image?: string;
+} = {
+  author: "Stella",
+  content: "Hello World",
+  title: "My First Article",
+};
