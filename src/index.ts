@@ -1,7 +1,4 @@
-let number: number = 10;
-number = -28.7;
+let firstName: string = "Mark";
+firstName = firstName + "Doe";
 
-number = Infinity * 2;
-number = parseInt("12");
-
-number = "1223";
+firstName = {};
