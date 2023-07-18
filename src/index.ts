@@ -5,7 +5,7 @@ type Post = {
   image?: string;
 };
 
-type ArrayString = string[];
+type StringArray = string[];
 
 let post: Post = {
   author: "Stella",
