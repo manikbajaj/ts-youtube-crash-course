@@ -1,8 +1,4 @@
-let a: number[];
-a = [1, 3, 4, 6, 7];
+let person: [string, string, number];
+person = ["John", "Doe", 22];
 
-a = ["q"];
-
-let b: Array<string> = ["a"];
-
-let c: (string | number)[] = ["q", 1];
+person = ["John", "Doe", 22, 22];
